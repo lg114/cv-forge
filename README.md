@@ -60,12 +60,11 @@ references/
 ├── rewrite.md               # 职责→成果、技能栏写法、删减优先级
 ├── jd-alignment.md          # JD 拆解、定向模式画像、关键词对齐
 └── scenarios.md             # 校招/社招/海外差异与高频雷区
-sync.sh                      # 本地开发：改完同步到已安装目录
 ```
 
 主文件保持轻量，细则按需加载，避免每次触发都塞满上下文。
 
-本地开发注意：安装是复制不是链接，修改 `SKILL.md` / `references/` 后运行 `./sync.sh` 同步到 `~/.workbuddy/skills/cv-forge/`，否则改动不生效。
+本地开发注意：安装是复制不是链接，修改 `SKILL.md` / `references/` 后需手动同步到 `~/.workbuddy/skills/cv-forge/`，否则改动不生效。
 
 ## 不做什么
 
