@@ -28,6 +28,34 @@
 - 分层动词口径照旧：Expert / Advanced 同样意味着可被任意深挖，慎用
 - 海外投递多经 ATS（简历解析系统）筛选，定制模式下 JD 关键词对齐权重比国内更高
 
+### 英文侧诊断与重写增补
+
+`diagnosis.md` 的 A/B/C 类 rubric 与 `rewrite.md` 的转换规则对英文简历同样适用，判定标准换成英文信号：
+
+- **职责导向的英文等价句式**：`Responsible for` / `Participated in` / `Assisted with` / `Helped with` / `Worked on` / `Involved in` —— 与中文「负责 / 参与」同罪
+- **技能栏分层动词**：`Expert in` / `Proficient in` / `Familiar with` 与「精通 / 熟悉 / 了解」同口径，`Expert` 意味着可被任意深挖
+- **数字写法**：一律阿拉伯数字 + 单位（`40%` 不写 `forty percent`；`3x` 不写 `three times`）
+
+| 雷区句式 | 问题 | 处理 |
+|---|---|---|
+| "Responsible for the development and maintenance of xx" | 只有动作没有结果 | 补结果或技术决策 |
+| "Participated in xx project" | 贡献边界不清 | 写清具体贡献块，直接动词开头 |
+| "Expert in xx" 滥用 | 面试会被任意深挖 | 改为 "Used xx to solve xx in xx context" |
+| "Improved performance / efficiency" | 无法验证 | 指明环节、从多少到多少 |
+
+**强动词表**（按贡献强度分档，弱档不用于核心 bullet）：
+
+- 主导 / 设计：Led、Designed、Architected、Drove、Owned
+- 构建 / 交付：Built、Shipped、Implemented、Delivered、Migrated、Automated
+- 结果 / 优化：Reduced、Increased、Cut、Eliminated（均须带幅度）；Improved 需补幅度否则视为空话
+
+**格式与 ATS**：
+
+- 不用表格、分栏、文本框、页眉页脚、图标 —— ATS 解析会丢内容
+- 标准板块标题：Experience / Projects / Education / Skills
+- 关键词用 JD 原形，缩写与全称并列（"Machine Learning (ML)"），不生造同义替换
+- 日期格式统一（`Jan 2023 – Present`），时间线不出现空档错位
+
 ## 空窗期处理（诚实原则）
 
 - **简历端不注水**：不虚构经历填补空窗、不用模糊时间掩盖；空窗期有真实产出（个人项目/自由职业/学习/家庭原因）就显式写出并标明性质，没有就保持时间线真实
