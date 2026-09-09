@@ -72,7 +72,7 @@ agent_created: true
 ### 4. 自检（复检）
 
 用 `references/diagnosis.md` 的同一把 rubric 对重写结果复检，输出 before/after 对比表：
-- 可数指标：职责导向 bullet 数、量化 bullet 占比、（定向/定制模式下）JD 关键词命中率、预计页数
+- 可数指标：职责导向 bullet 数、量化 bullet 占比、技能栏无证据条目数、（定向/定制模式下）JD 关键词命中率、预计页数
 - 变更说明：改了什么、为什么、对齐了 JD 的哪条要求
 
 ### 5. 迭代（回炉）
