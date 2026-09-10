@@ -67,17 +67,6 @@ references/
 
 主文件保持轻量，细则按需加载，避免每次触发都塞满上下文。
 
-本地开发注意：安装是复制不是链接，修改 `SKILL.md` / `references/` 后需手动同步到 `~/.workbuddy/skills/cv-forge/`，否则改动不生效。
-
-**判断是否漂移**：`SKILL.md` frontmatter 带 `version`（内容有变更就递增）；比对两边 `version` 是否一致即可。需逐文件核对时：
-
-```bash
-S=~/Documents/GitHub/cv-forge; D=~/.workbuddy/skills/cv-forge
-for f in SKILL.md README.md references/*.md; do diff -q "$S/$f" "$D/$f"; done
-```
-
-无输出即全部一致。
-
 ## 不做什么
 
 - 不做视觉排版 / 模板美化
