@@ -30,7 +30,7 @@
 
 ### 英文侧诊断与重写增补
 
-`diagnosis.md` 的 A/B/C 类 rubric 与 `rewrite.md` 的转换规则对英文简历同样适用，判定标准换成英文信号：
+`diagnosis.md` 的 A/B/C 类检查维度与 `rewrite.md` 的转换规则对英文简历同样适用，判定标准换成英文信号：
 
 - **职责导向的英文等价句式**：`Responsible for` / `Participated in` / `Assisted with` / `Helped with` / `Worked on` / `Involved in` —— 与中文「负责 / 参与」同罪
 - **技能栏分层动词**：`Expert in` / `Proficient in` / `Familiar with` 与「精通 / 熟悉 / 了解」同口径，`Expert` 意味着可被任意深挖
