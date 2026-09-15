@@ -1,13 +1,7 @@
 ---
 name: cv-forge
-description: >
-  轻量简历优化。在不虚构、不夸大的前提下，改进结构完整性、措辞与岗位针对性，
-  输出完整优化简历 + 结构化修改说明。支持纯文本/结构化输入，可选目标岗位或JD、
-  优化力度、语言风格、目标市场、目标篇幅，支持多轮迭代。
-  触发：改简历、优化简历、润色简历、帮我改简历、按JD改简历、
-  resume revision、resume improve、tailor my resume。
-  不做：简历评分、排版设计、从零代写、虚构经历。
-version: 1.8.0
+description: 轻量简历优化。在不虚构、不夸大的前提下，改进结构完整性、措辞与岗位针对性，输出完整优化简历 + 结构化修改说明。支持纯文本/结构化输入，可选目标岗位或JD、优化力度、语言风格、目标市场、目标篇幅，支持多轮迭代。触发：改简历、优化简历、润色简历、帮我改简历、按JD改简历、resume revision、resume improve、tailor my resume。不做：简历评分、排版设计、从零代写、虚构经历。
+version: 1.8.1
 license: MIT
 agent_created: true
 ---
