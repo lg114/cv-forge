@@ -40,4 +40,4 @@ PDF 是显式选择项；未指定时默认输出 Markdown。PDF 使用简洁的
 
 ## License
 
-[MIT](LICENSE) © 2026 Lin Gan
+[MIT](LICENSE) © 2026
