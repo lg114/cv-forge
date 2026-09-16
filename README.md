@@ -38,4 +38,4 @@
 
 ## License
 
-[MIT](LICENSE) © 2026 Lin Gan
+[MIT](LICENSE) © 2026
