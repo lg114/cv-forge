@@ -20,18 +20,6 @@
 
 将本目录（`SKILL.md` 所在处）导入为 Skill 即可，无其他依赖。
 
-## 发布与打包
-
-本仓库根目录即技能目录，但**不要**直接对它运行官方 `package_skill.py`：该脚本用 `rglob('*')` 递归全部文件，会把 `.git/`（全量历史）和 `.workbuddy/` 一并压进 zip（实测 198 个条目里 185 个来自 `.git`）。先导出干净目录再打包：
-
-```bash
-mkdir -p /tmp/cv-forge-dist/cv-forge
-tar -cf - --exclude=./.git --exclude=./.workbuddy . | tar -xf - -C /tmp/cv-forge-dist/cv-forge
-python package_skill.py /tmp/cv-forge-dist/cv-forge
-```
-
-产出 5 个文件（`SKILL.md`、`README.md`、`LICENSE`、`.gitattributes`、`.gitignore`），约 12 KB。Windows 下若用 Git Bash，最后一条命令的路径需换成 `cygpath -w` 转换后的形式（Windows 版 Python 不认 `/tmp` 这类 POSIX 路径）。
-
 ## License
 
 [MIT](LICENSE) © 2026 Lin Gan
