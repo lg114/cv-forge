@@ -1,7 +1,7 @@
 ---
 name: cv-forge
 description: 轻量简历优化。在不虚构、不夸大前提下，始终追溯事实（完整账本按需启用），改进结构、措辞与岗位针对性；默认输出 Markdown，可按明确要求交付经渲染核验的 PDF。素材可为成稿简历或事实清单，形态不限，可选目标岗位或JD、优化力度、语言风格、目标市场、目标篇幅和交付格式。触发：改简历、优化简历、润色简历、帮我改简历、按JD改简历、导出简历PDF、resume revision、resume improve、tailor my resume。不做：评分、复杂排版设计、虚构或扩写。
-version: 1.23.0
+version: 1.24.0
 license: MIT
 ---
 
