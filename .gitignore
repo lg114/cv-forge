@@ -1,5 +1,6 @@
 # 本地会话记忆与工作数据，不进版本库
 .workbuddy/
+.workbuddy-ai/
 
 # 锻造产物（含个人身份信息，勿提交）
 /resume-*.md
